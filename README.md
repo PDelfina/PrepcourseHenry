@@ -1,2 +1,3 @@
-# PrepcourseHenry
-Este es un repositorio de prueba del modulo 2 del Prepcourse de Henry
+Delfina Parada 
+Prueba de como crear un repositorio y clonarlo desde git hub a mi compu. 
+
